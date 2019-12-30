@@ -23,4 +23,4 @@ Implementations in this app mainly includes:
 
 6 Advanced Feature: Animation
 
-Screenshots of the user interfaces of this app and detail design feature information could be found in my pdf REPORT file.
+Screenshots of the user interfaces of this app and detail design feature information could be found in the AppREPORT.pdf file.
